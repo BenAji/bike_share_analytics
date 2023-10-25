@@ -1,6 +1,18 @@
 # bike_share_analytics
-### Introduction
-In this case study, I performed real-world tasks of a data analyst. I answered the key business questions, following the data analysis process: ask, prepare, process, analyze,
-share, and act using python program on jupyter notebook. Along the way, the Case Study Roadmap tables — including guiding questions and key tasks — will help organize the path.<br>
-This is a portfolio for this case study including all code used which can be duplicated.
-<br>This is a demonstration of what i am capable of doing or replicate in any business case, so it is a testament of my knowledge and skills in data analysis using python programming.
+
+
+## Data Analyst Case Study Portfolio  
+
+### Unlocking Insights through Data Analysis  
+
+In this comprehensive case study, I undertake the role of a data analyst to tackle real-world business challenges. My journey begins with posing critical questions, and I traverse through each phase of the data analysis process: asking, preparing, processing, analyzing, sharing, and acting, all executed through Python programming in a Jupyter Notebook environment.
+
+### Case Study Roadmap
+
+Throughout this journey, the Case Study Roadmap provides a structured guide. It includes tables with guiding questions and key tasks that act as milestones, ensuring a methodical and organized approach.
+
+### What to Expect
+
+This portfolio contains the complete codebase used in the case study, allowing for replication. It serves as a testament to my proficiency in data analysis, demonstrating my capabilities to navigate and solve diverse business challenges using Python.
+
+This project showcases my skills, knowledge, and practical application of data analysis, and it stands as a testimony to my proficiency in the field.
